@@ -113,6 +113,7 @@ Internships, research lab work, MATLAB or Python coding, CSWA certification, GD&
 | J&J | Development Engineer (GTO/SC) Intern | Medline version |
 | Amgen | Operations, Process Development Intern | main copy |
 | Novonesis | Process Engineering Intern (Blair, NE) | Novonesis |
+| Novonesis | Reliability Engineering Intern (Blair, NE), due Oct 30, 2026 | Novonesis_Reliability |
 | Abbott | Cancer Diagnostics Process Dev and Automation | skills list only |
 | Medline | R&D Design Intern | Medline |
 | Phillips Medisize (Koch) | Engineering Internship Program | Medline version |
