@@ -31,7 +31,7 @@ Use only the facts in the bank below. If a job wants something that isn't listed
 **Education**
 - Cal Poly SLO, B.S. Biomedical Engineering, Expected June 2029, GPA 3.56, Dean's List Spring 2026.
 - United States Military Academy at West Point, Cadet, June 2025 to Jan. 2026. Ranked 285 of 1,187 (top 25%). Earned Tactical Combat Casualty Care (TCCC) certification with a perfect written exam score.
-- DoD Secret clearance (inactive; eligible for reactivation through Jan. 2028).
+- DoD Secret clearance (inactive; eligible for reactivation through Jan. 2028). **Always include it** as a Clearance row in Skills on every resume (Champ's rule).
 - Coursework: Computer-Aided Design (SolidWorks), Biomedical Engineering Fundamentals, Engineering Statics, Public Speaking (COMS 101), ENGL 145, General Physics I-III (PHYS 141, 142 done; 143 in progress; all with labs), CHEM 125 (Cal Poly), CH151 Advanced General Chemistry (West Point), BIO 1151 Life: Molecules and Cells. That's 5 lab courses done and a 6th in progress.
 - Lab equipment he has confirmed using: volumetric flasks, burets, stir plates, spectrophotometer. He has written 2 formal lab reports.
 - Not confirmed: micropipettes, microscopes. The Labcorp resume mentions them; ask before reusing.
@@ -52,7 +52,7 @@ Use only the facts in the bank below. If a job wants something that isn't listed
 - **Quality Windows**, Quality Control Supervisor, Summers 2023 to 2025 (Workday: 06/2023 to 08/2025)
   - QC inspections across 30+ residential and commercial properties per season; documented nonconformities and directed corrective rework before client sign-off.
   - Trained 3 employees on safety, equipment operation, and client communication.
-- **Chateau Noland**, Construction and Fabrication Assistant, Summer 2023 (Workday: 04/2023 to 08/2023)
+- **Chateau Noland**, Construction and Fabrication Assistant, Summer 2023, San Luis Obispo, CA (Workday: 04/2023 to 08/2023)
   - Built fencing, excavated trenches, and installed water lines with hand and power tools.
 - **EMPOWER Student Association, Cal Poly**, Project Team Member, AbleGamers Adaptive Gaming Controller, Fall 2026 (Workday: 09/2026; the Amgen form used 08/2026)
   - 8-person team. Defines design requirements from user needs (one-handed control, safety, durability, ergonomics, swappable toppers).
@@ -95,7 +95,7 @@ Internships, research lab work, MATLAB or Python coding, CSWA certification, GD&
 ## Workflow for each new posting
 
 1. Read the job description and pull out its keywords: hard skills, soft skills, and industry terms.
-2. Start from the closest existing file in `resumes/`:
+2. The master resume is `resumes/Charles_Morrisey_Resume_Master.html` (Champ's own base copy). Every tailored version is based on it. For section ideas, also look at the closest existing file in `resumes/`:
    - Design/R&D: Medline or ZOLL
    - Manufacturing/process: LivaNova
    - Lab/diagnostics: Labcorp
