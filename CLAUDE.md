@@ -120,5 +120,6 @@ Internships, research lab work, MATLAB or Python coding, CSWA certification, GD&
 | Labcorp | Anatomic Pathology Intern | Labcorp |
 | LivaNova | Manufacturing Engineer Intern | LivaNova |
 | Stryker | Project Management Intern | Stryker |
+| Stryker | Biomedical Engineering Intern, R&D (Fort Lauderdale, FL), R572592 | Stryker_BME |
 | ZOLL | Mechanical Engineering Intern | ZOLL |
 | Xeris | MS&T Intern | Xeris |
