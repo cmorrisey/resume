@@ -103,6 +103,7 @@ Internships, research lab work, MATLAB or Python coding, CSWA certification, GD&
    - Project management/data: Stryker
 3. Tailor: a 2 to 3 line Summary with their keywords, reorder Skills rows, reorder sections and bullets, and cut the least relevant lines. Keep it to **one page**.
 4. Render the PDF with `tools/render_resume.sh resumes/<file>.html`. Confirm it's 1 page with no junk characters, and look at the PNG preview for awkward line wraps.
+   Then run `python3 tools/fit_resume.py resumes/<file>.html` so the content fills the whole page (it grows font only if no new wraps appear, then spacing, and re-renders the PDF). Check the preview again after.
 5. Save as `resumes/Charles_Morrisey_Resume_<Company>.pdf` plus the matching `.html`, then commit and push.
 6. In chat, give: what changed and why, a keyword match table, fit warnings (major, class standing, location), questions that could strengthen the resume, and paste-ready Workday text (each job's title, company, location, dates, and bullets in code blocks; a skills list; and a table of application answers).
 
