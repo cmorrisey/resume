@@ -119,7 +119,8 @@ Internships, research lab work, MATLAB or Python coding, CSWA certification, GD&
 | Phillips Medisize (Koch) | Engineering Internship Program | Medline version |
 | Labcorp | Anatomic Pathology Intern | Labcorp |
 | LivaNova | Manufacturing Engineer Intern | LivaNova |
-| Stryker | Project Management Intern | Stryker |
+| Stryker | Project Management Intern (original; status unclear, see next row) | Stryker |
+| Stryker | Project Management Intern (Irvine, CA), R574596; Workday showed "Continue Application" (unsubmitted draft) on Oct 13, 2026 | Stryker_PM_Irvine |
 | Stryker | Biomedical Engineering Intern, R&D (Fort Lauderdale, FL), R572592 | Stryker_BME |
 | Merck (MSD) | 2027 FTP West Point Vaccine Manufacturing Intern (West Point, PA), R416751, closes Nov 9, 2026 | Merck |
 | ZOLL | Mechanical Engineering Intern | ZOLL |
