@@ -121,5 +121,6 @@ Internships, research lab work, MATLAB or Python coding, CSWA certification, GD&
 | LivaNova | Manufacturing Engineer Intern | LivaNova |
 | Stryker | Project Management Intern | Stryker |
 | Stryker | Biomedical Engineering Intern, R&D (Fort Lauderdale, FL), R572592 | Stryker_BME |
+| Merck (MSD) | 2027 FTP West Point Vaccine Manufacturing Intern (West Point, PA), R416751, closes Nov 9, 2026 | Merck |
 | ZOLL | Mechanical Engineering Intern | ZOLL |
 | Xeris | MS&T Intern | Xeris |
