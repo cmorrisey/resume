@@ -124,6 +124,7 @@ Internships, research lab work, MATLAB or Python coding, CSWA certification, GD&
 | Stryker | Project Management Intern (Irvine, CA), R574596; Workday showed "Continue Application" (unsubmitted draft) on Oct 13, 2026 | Stryker_PM_Irvine |
 | Stryker | Biomedical Engineering Intern, R&D (Fort Lauderdale, FL), R572592 | Stryker_BME |
 | BMS (Bristol Myers Squibb) | 2027 Summer Internship, Product Development (New Brunswick or Princeton, NJ), R1607364, rolling | BMS |
+| Eli Lilly | LRL TDA 2027 Summer Undergraduate Internship (Indianapolis + other US sites), R-110519, closes Dec 1, 2026 | Lilly |
 | Merck (MSD) | 2027 FTP West Point Vaccine Manufacturing Intern (West Point, PA), R416751, closes Nov 9, 2026 | Merck |
 | ZOLL | Mechanical Engineering Intern | ZOLL |
 | Xeris | MS&T Intern | Xeris |
