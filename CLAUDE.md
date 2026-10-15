@@ -60,7 +60,7 @@ Use only the facts in the bank below. If a job wants something that isn't listed
   - Tracks key deliverable dates.
 
 **Leadership and Honors**
-- STEM Tutor, Skill Haven, Apr. 2026 to Present: teaches math and science to 7th and 8th graders, 20+ sessions.
+- STEM Tutor, Skill Haven, Apr. 2026 to Present: teaches math and science to 7th and 8th graders, 20+ sessions (math AND science confirmed by Champ, Oct 15, 2026). Can go in Experience as a job entry (done on Lilly); location not yet confirmed.
 - Youth Basketball Coach, 3Ball SLO (2025): ages 7-13, 25+ hours of free programming.
 - Associated Student Body President, Mission College Prep (2024 to 2025): elected to represent 350+ students; gave speeches and presentations.
 - Sttark Essay and Label Design Scholarship, 2026, $3,000. (Confirm the spelling of "Sttark".)
