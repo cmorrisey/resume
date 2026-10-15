@@ -112,6 +112,7 @@ Internships, research lab work, MATLAB or Python coding, CSWA certification, GD&
 | Company | Role | Resume file |
 |---|---|---|
 | J&J | Development Engineer (GTO/SC) Intern | Medline version |
+| J&J | Performance Evaluation Summer Intern, WCHB R&D (Raritan, NJ), R-103670, apply by Oct 22, 2026 8:59 AM | JnJ_Performance_Eval |
 | Amgen | Operations, Process Development Intern | main copy |
 | Novonesis | Process Engineering Intern (Blair, NE) | Novonesis |
 | Novonesis | Reliability Engineering Intern (Blair, NE), applied Oct 10, 2026 | Novonesis_Reliability |
