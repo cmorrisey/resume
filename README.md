@@ -137,6 +137,7 @@ Numbers that go stale. Recheck before each batch of applications.
 | 2026-10-21 | Tailored version for MiniMed Engineering Intern Summer 2027 in `tailored/minimed-engineering-intern-2027/` |
 | 2026-10-21 | Tailored version for Insmed Quality Systems & Business Processes Intern Summer 2027 in `tailored/insmed-quality-systems-intern-2027/` |
 | 2026-10-21 | Tailored version for GDMS Manufacturing Engineering Intern in `tailored/gdms-manufacturing-engineering-intern-2027/` |
+| 2026-10-21 | Tailored version for L3Harris Quality Engineer Intern in `tailored/l3harris-quality-engineer-intern-2027/` |
 
 
 
