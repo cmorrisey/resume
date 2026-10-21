@@ -69,6 +69,14 @@ Copy-paste reference for application portals.
 
 ---
 
+### EMPOWER Student Association, Cal Poly
+**Marketing and Fundraising Lead | NICU Temperature Probe Adhesive Research** | San Luis Obispo, CA | Fall 2026 - Present
+
+- Lead marketing and fundraising for a student research team developing a layered adhesive (silicone, hydrocolloid, foam, reflective film) that keeps temperature probes on premature infants.
+- Plans to join the testing or engineering team after the fundraising push.
+
+---
+
 ## Experience
 
 ### MeldMD
@@ -122,7 +130,7 @@ Numbers that go stale. Recheck before each batch of applications.
 
 | Metric | Current value | Source | Last verified |
 |---|---|---|---|
-| GPA | 3.56 | Cal Poly portal | 2026-09-30 |
+| GPA | 3.56 (transcript: 3.556) | Cal Poly transcript | 2026-10-21 |
 | Coastal Shine revenue booked | $14,280 | Job records | 2026-09-30 |
 | Coastal Shine jobs / clients | 40 / 40 | Job records | 2026-09-30 |
 | Coastal Shine avg job value | $357 | Revenue / jobs | 2026-09-30 |
@@ -142,6 +150,7 @@ Numbers that go stale. Recheck before each batch of applications.
 | 2026-10-21 | Tailored version for GDMS Manufacturing Engineering Intern in `tailored/gdms-manufacturing-engineering-intern-2027/` |
 | 2026-10-21 | Tailored version for L3Harris Quality Engineer Intern in `tailored/l3harris-quality-engineer-intern-2027/` |
 | 2026-10-21 | Updated Relevant Coursework in all tailored resumes; cover letter availability changed to end of spring semester (May 2027) |
+| 2026-10-21 | Added NICU adhesive research role; verified GPA 3.556 on transcript; Goldwater research resume in `tailored/goldwater-summer-research-internship-2027/` |
 
 
 
