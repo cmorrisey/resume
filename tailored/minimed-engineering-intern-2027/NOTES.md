@@ -1,7 +1,7 @@
 # MiniMed Engineering Intern, Summer 2027 (R-801818)
 
-Deadline: Oct 22, 2026. Upload `Charles_Morrisey_Resume.pdf` to Workday.
-Rebuild after edits: `python3 build.py Charles_Morrisey_Resume.docx && soffice --headless --convert-to pdf Charles_Morrisey_Resume.docx`
+Deadline: Oct 22, 2026. Upload `Charles_Morrisey_MiniMed_Engineering_Intern.pdf` to Workday.
+Rebuild after edits: `python3 build.py Charles_Morrisey_MiniMed_Engineering_Intern.docx && soffice --headless --convert-to pdf Charles_Morrisey_MiniMed_Engineering_Intern.docx`
 
 ## What changed vs. the master resume
 - Header: added "U.S. Citizen" so the work-authorization requirement is explicit (posting says the resume must clearly show each requirement).

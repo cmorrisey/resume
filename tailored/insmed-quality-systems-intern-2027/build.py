@@ -207,6 +207,6 @@ bullet([("Sttark Essay and Label Design Scholarship", True), (", 2026. Awarded $
 bullet([("CIF Central Section Scholar-Athlete of the Year", True), (", 2025. Selected from 120+ member "
         "schools.", False)])
 
-out = sys.argv[1] if len(sys.argv) > 1 else "Charles_Morrisey_Resume.docx"
+out = sys.argv[1] if len(sys.argv) > 1 else "Charles_Morrisey_Insmed_Quality_Systems_Intern.docx"
 doc.save(out)
 print("wrote", out)

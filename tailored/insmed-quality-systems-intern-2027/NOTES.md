@@ -1,7 +1,7 @@
 # Insmed Summer Intern, Quality Systems & Business Processes (R3820-1)
 
-Hybrid, Bridgewater, NJ. 12 weeks, full time. Applications close 5 calendar days after posting. Upload `Charles_Morrisey_Resume.pdf`.
-Rebuild after edits: `python3 build.py Charles_Morrisey_Resume.docx && soffice --headless --convert-to pdf Charles_Morrisey_Resume.docx`
+Hybrid, Bridgewater, NJ. 12 weeks, full time. Applications close 5 calendar days after posting. Upload `Charles_Morrisey_Insmed_Quality_Systems_Intern.pdf`.
+Rebuild after edits: `python3 build.py Charles_Morrisey_Insmed_Quality_Systems_Intern.docx && soffice --headless --convert-to pdf Charles_Morrisey_Insmed_Quality_Systems_Intern.docx`
 
 ## Changes vs. the MiniMed version
 - Added a 2-line Summary to place top keywords: quality-control inspection, SOP and process documentation, data validation, detail-oriented, digital tools, pharmaceutical, biotechnology, Quality systems.
