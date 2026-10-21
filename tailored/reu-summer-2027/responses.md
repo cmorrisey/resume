@@ -67,3 +67,16 @@ This internship would change that. I want to learn how a researcher turns a prob
 I also want a clearer view of my career. I plan to work in the medical device industry, and the pacemakers that gave my grandparents extra years began as someone's research question. I want to see that early stage firsthand before I decide where in the device world I belong.
 
 Finally, I want to bring it back. A summer at the bench would make me useful on EMPOWER's testing team and ready for upper-division design courses and senior design. The next time someone asks me about edge lifting, I want to answer with my own data.
+
+## Q4. Academic and career goals
+
+### GOALS
+As a kid, I thought Grandpa Tom was Iron Man. He had a device in his chest that kept his heart on beat, and he still beat me at driveway basketball, then again at Go-Fish. The pacemaker he got in the early 2000s kept him with us for years. Over those years, the man himself faded anyway. His puns were the last thing to leave. My younger siblings never knew that man.
+
+Medicine solved the problem it could measure. A pacemaker reads the heart's electrical signal every second and steps in the moment the rhythm fails. Brain care rarely works that way. Most of the time, doctors confirm damage after it has already happened. My hypothesis, which I hold loosely as a sophomore, is that the brain needs the same constant, early warning the heart already has.
+
+That gap shapes my academic goals. I am earning a B.S. in Biomedical Engineering at Cal Poly, expected in 2029, and I want to focus on bioinstrumentation: the sensors, circuits, and signal processing inside devices that watch the body in real time. This year I am building the base in Introduction to Mechanical Design in Biomedical Engineering, and next spring I take Principles of Biomaterials and Human Anatomy and Physiology. Outside class, I work on two EMPOWER projects, an adaptive gaming controller and a NICU temperature probe adhesive, where I plan to move from fundraising to testing. A summer of research would teach me how to turn a question into data, which is where every device starts.
+
+My career goal is to work in research and development in the medical device industry, designing monitoring devices that catch failure early. I want to take a design from early testing through verification and into a hospital, where it does its job without anyone thinking about it.
+
+Engineering gave Tom more heartbeats. I want to help give the next family more of the person living them.
