@@ -7,14 +7,15 @@ from docx.oxml import OxmlElement
 
 
 # Usage: python3 tools/build_resume.py <content.py> <output dir>
-# content.py defines NAME, CONTACT, BASENAME, and SECTIONS.
+# content.py defines NAME, CONTACT, BASENAME, and SECTIONS, plus an optional HEADLINE.
 CONTENT, OUT = sys.argv[1], sys.argv[2]
 cfg = {}
 exec(open(CONTENT).read(), cfg)
 NAME, CONTACT, BASENAME, SECTIONS = cfg["NAME"], cfg["CONTACT"], cfg["BASENAME"], cfg["SECTIONS"]
+HEADLINE = cfg.get("HEADLINE")
 
 # ---------- Markdown ----------
-md = [f"# {NAME}", "", CONTACT, ""]
+md = [f"# {NAME}", ""] + ([f"**{HEADLINE}**", ""] if HEADLINE else []) + [CONTACT, ""]
 for title, entries in SECTIONS:
     md += [f"## {title}", ""]
     for e in entries:
@@ -83,6 +84,9 @@ def bullet(p_text_parts):
 
 p = para(align=WD_ALIGN_PARAGRAPH.CENTER)
 run(p, NAME, bold=True, size=16)
+if HEADLINE:
+    p = para(align=WD_ALIGN_PARAGRAPH.CENTER)
+    run(p, HEADLINE, size=10.5)
 p = para(space_after=2, align=WD_ALIGN_PARAGRAPH.CENTER)
 run(p, CONTACT, size=9.5)
 
