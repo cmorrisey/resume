@@ -71,7 +71,7 @@ BODY = [
 
     "I want to learn how a Material Review Board, root cause analysis, and a Zero Defect program run on "
     "a real production line, and L3Harris would let me do that on hardware that supports national "
-    "security. I am available from mid-June 2027, after Cal Poly's spring quarter ends, and I am ready "
+    "security. I am available once Cal Poly's spring semester ends in May 2027, and I am ready "
     "to relocate to Rochester. Thank you for your time. I would welcome the chance to talk about how I "
     "can support your Quality team.",
 ]

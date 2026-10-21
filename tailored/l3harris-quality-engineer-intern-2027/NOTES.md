@@ -14,4 +14,4 @@ QMS, Material Review Board (MRB), root cause analysis, containment, Critical to 
 
 ## Cover letter
 `Charles_Morrisey_L3Harris_Quality_Engineer_Intern_Cover_Letter.pdf` (built by `cover_letter.py`). About 340 words, one page, plain Word layout.
-Assumptions to confirm: available from mid-June 2027, willing to relocate to Rochester.
+Assumptions to confirm: available once the spring semester ends in May 2027 (check the Registrar calendar), willing to relocate to Rochester.

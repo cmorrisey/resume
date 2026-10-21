@@ -129,8 +129,8 @@ left_right("California Polytechnic State University, San Luis Obispo", "Expected
 left_right("Bachelor of Science in Biomedical Engineering", "GPA: 3.56/4.00", italic=True)
 p = para()
 run(p, "Relevant Coursework: ", bold=True)
-run(p, "Computer-Aided Design (SolidWorks), Biomedical Engineering Fundamentals, "
-       "Engineering Statics, Physics for Engineers")
+run(p, "Introduction to Mechanical Design in Biomedical Engineering, Introduction to Mechanics, "
+       "Computer-Aided Design (SolidWorks), Engineering Statics, Calculus III, General Physics II")
 entry("United States Military Academy at West Point", "Jun 2025 - Jan 2026", "Cadet", "West Point, NY")
 bullet("Ranked 285 of 1,187 cadets (top 25%); earned Tactical Combat Casualty Care "
        "certification with a perfect written exam score.")

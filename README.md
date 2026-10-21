@@ -25,6 +25,7 @@ Copy-paste reference for application portals.
 | Degree | B.S. Biomedical Engineering |
 | Expected graduation | June 2029 |
 | Class standing (Fall 2026) | Sophomore |
+| Academic calendar | Semesters starting 2026-27 (use semester-system internship dates) |
 | GPA | 3.56 |
 | Clearance | U.S. DoD Secret (inactive; eligible for reactivation through Jan. 2028) |
 | Website | gocoastalshine.com |
@@ -37,7 +38,9 @@ Copy-paste reference for application portals.
 *Bachelor of Science in Biomedical Engineering, Class of 2029* | Expected June 2029
 **GPA:** 3.56
 
-**Relevant Coursework:** Computer-Aided Design (SolidWorks), Biomedical Engineering Fundamentals, Engineering Statics, Physics for Engineers
+**Relevant Coursework:** Introduction to Mechanical Design in Biomedical Engineering, Introduction to Mechanics, Computer-Aided Design (SolidWorks), Engineering Statics, Calculus III, General Physics II
+
+**Fall 2026 enrollment (semester system):** BIO 1151 Life: Molecules and Cells (Lecture and Lab); BMED 1101 Introduction to Biomedical Engineering; BMED 2212 Introduction to Mechanical Design in Biomedical Engineering (Lecture and Lab); ENGR 2211 Introduction to Mechanics; MATH 2263 Calculus III; PHYS 143C General Physics II Cap (Lecture and Lab)
 
 ### United States Military Academy at West Point
 *Cadet* | West Point, NY | June 2025 - Jan. 2026
@@ -138,6 +141,7 @@ Numbers that go stale. Recheck before each batch of applications.
 | 2026-10-21 | Tailored version for Insmed Quality Systems & Business Processes Intern Summer 2027 in `tailored/insmed-quality-systems-intern-2027/` |
 | 2026-10-21 | Tailored version for GDMS Manufacturing Engineering Intern in `tailored/gdms-manufacturing-engineering-intern-2027/` |
 | 2026-10-21 | Tailored version for L3Harris Quality Engineer Intern in `tailored/l3harris-quality-engineer-intern-2027/` |
+| 2026-10-21 | Updated Relevant Coursework in all tailored resumes; cover letter availability changed to end of spring semester (May 2027) |
 
 
 
