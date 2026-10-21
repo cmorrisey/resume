@@ -134,6 +134,7 @@ Numbers that go stale. Recheck before each batch of applications.
 | Date | Change |
 |---|---|
 | 2026-09-30 | Initial README created from `morrisey_charles_resume.pdf` |
+| 2026-10-21 | Tailored version for MiniMed Engineering Intern Summer 2027 in `tailored/minimed-engineering-intern-2027/` |
 
 
 
