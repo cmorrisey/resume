@@ -38,7 +38,7 @@ Copy-paste reference for application portals.
 *Bachelor of Science in Biomedical Engineering, Class of 2029* | Expected June 2029
 **GPA:** 3.56
 
-**Relevant Coursework:** Introduction to Mechanical Design in Biomedical Engineering, Introduction to Mechanics, Computer-Aided Design (SolidWorks), Engineering Statics, Calculus III, General Physics II
+**Relevant Coursework:** Introduction to Mechanical Design in Biomedical Engineering, Introduction to Mechanics (Statics), Computer-Aided Design (SolidWorks), Calculus III, General Physics II
 
 **Fall 2026 enrollment (semester system):** BIO 1151 Life: Molecules and Cells (Lecture and Lab); BMED 1101 Introduction to Biomedical Engineering; BMED 2212 Introduction to Mechanical Design in Biomedical Engineering (Lecture and Lab); ENGR 2211 Introduction to Mechanics; MATH 2263 Calculus III; PHYS 143C General Physics II Cap (Lecture and Lab)
 
