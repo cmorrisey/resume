@@ -156,6 +156,7 @@ Numbers that go stale. Recheck before each batch of applications.
 | 2026-10-22 | Tailored version for Stryker RA/QA Regulatory Affairs Intern in `tailored/stryker-regulatory-affairs-intern-2027/` |
 | 2026-10-22 | Tailored version for Stryker Ortho Sales Intern in `tailored/stryker-ortho-sales-intern-2027/` |
 | 2026-10-22 | Added the `resume-stack` skill (`.claude/skills/resume-stack/`) that runs the full tailoring workflow |
+| 2026-10-22 | Tailored version for Stryker Foot & Ankle Sales Intern, Tampa in `tailored/stryker-foot-ankle-sales-intern-2027/` |
 
 
 
