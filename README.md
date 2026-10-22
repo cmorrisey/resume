@@ -96,6 +96,8 @@ Copy-paste reference for application portals.
 - Grew from 3 jobs in the first month to 30 jobs over a two-month peak, expanding into solar panel cleaning and roof soft washing.
 - Developed standard operating procedures (SOPs) for job setup, cleaning, and final inspection across varied site conditions.
 - Built and launched gocoastalshine.com with service pages, before-and-after photos, a service-area map, and a quote form.
+- Maintain, troubleshoot, and repair pressure washing and soft washing equipment; source replacement parts and supplies from vendors.
+- Handle and apply soft washing chemicals with required PPE.
 
 ### Quality Windows
 **Quality Control Supervisor** | San Luis Obispo, CA | Summers 2023 - 2025
@@ -157,6 +159,7 @@ Numbers that go stale. Recheck before each batch of applications.
 | 2026-10-22 | Tailored version for Stryker Ortho Sales Intern in `tailored/stryker-ortho-sales-intern-2027/` |
 | 2026-10-22 | Added the `resume-stack` skill (`.claude/skills/resume-stack/`) that runs the full tailoring workflow |
 | 2026-10-22 | Tailored version for Stryker Foot & Ankle Sales Intern, Tampa in `tailored/stryker-foot-ankle-sales-intern-2027/` |
+| 2026-10-22 | Added Coastal Shine equipment maintenance and PPE facts; BMS RayzeBio Equipment Engineering resume in `tailored/bms-rayzebio-equipment-engineering-intern-2027/` |
 
 
 
