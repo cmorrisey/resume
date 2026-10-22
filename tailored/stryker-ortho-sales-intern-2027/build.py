@@ -127,8 +127,8 @@ run(p, "San Luis Obispo, CA | (626) 705-1471 | cmorrise@calpoly.edu | linkedin.c
 heading("SUMMARY")
 p = para()
 run(p, "Biomedical Engineering sophomore and Account Executive who built a 3,050-record target account list "
-       "and founded a business that booked $14,280 across 40 jobs. Former West Point cadet with proven "
-       "leadership, sales presentation, and interpersonal skills.")
+       "and founded a business that booked $14,280 across 40 jobs. Former West Point cadet and varsity "
+       "football captain with strong leadership and interpersonal skills.")
 
 # ---------- Education ----------
 heading("EDUCATION")
