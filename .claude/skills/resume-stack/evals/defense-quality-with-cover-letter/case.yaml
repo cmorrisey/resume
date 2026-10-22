@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: defense-quality-with-cover-letter
+expected_outcome: |
+  A tailored one-page resume that surfaces the inactive Secret clearance and Quality Windows experience early, plus a one-page cover letter of 250-400 words that does not claim root cause or corrective action work, with flagged opinion lines.

@@ -8,6 +8,8 @@
 
 > This file is the master copy. Every tailored resume, application form, and cover letter pulls from here. If a fact changes (GPA, dates, metrics, new project), update it here first, then regenerate the PDF.
 
+> **Tailoring a new application:** run `/resume-stack` with the posting pasted in. The skill lives in `.claude/skills/resume-stack/`; its `references/claim-rules.md` holds the wording rules and coursework grades.
+
 ---
 
 ## Quick-Fill Fields
@@ -153,6 +155,7 @@ Numbers that go stale. Recheck before each batch of applications.
 | 2026-10-21 | Added NICU adhesive research role; verified GPA 3.556 on transcript; Goldwater research resume in `tailored/goldwater-summer-research-internship-2027/` |
 | 2026-10-22 | Tailored version for Stryker RA/QA Regulatory Affairs Intern in `tailored/stryker-regulatory-affairs-intern-2027/` |
 | 2026-10-22 | Tailored version for Stryker Ortho Sales Intern in `tailored/stryker-ortho-sales-intern-2027/` |
+| 2026-10-22 | Added the `resume-stack` skill (`.claude/skills/resume-stack/`) that runs the full tailoring workflow |
 
 
 

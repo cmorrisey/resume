@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: sales-posting-workday-fields
+expected_outcome: |
+  A sales-oriented one-page resume leading with the MeldMD target account list and Coastal Shine revenue, plus Workday Work Experience blocks with MM/YYYY dates and dash-formatted role descriptions that match the PDF bullets.
